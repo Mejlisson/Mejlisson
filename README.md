@@ -14,5 +14,3 @@ Frontend Developer Student<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=Mejlisson&icon=3&color=10)](https://visitcount.itsvg.in)
-
-https://www.instagram.com/mejlisson_/
