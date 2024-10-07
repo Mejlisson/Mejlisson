@@ -2,7 +2,7 @@
 
 ## ✨Mejlisson✨
 Frontend Developer Student<br>
-### 🌐 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/petimat_melhi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mejlisson) 
+### 🌐 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mejlisson_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mejlisson) 
 
 ### 🧰 Languages 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -15,3 +15,4 @@ Frontend Developer Student<br>
 
 [![](https://visitcount.itsvg.in/api?id=Mejlisson&icon=3&color=10)](https://visitcount.itsvg.in)
 
+https://www.instagram.com/mejlisson_/
