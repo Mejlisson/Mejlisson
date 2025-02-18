@@ -3,7 +3,7 @@
 Frontend Developer Student<br>
 
 ### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://se.linkedin.com/in/mejlisson)
-![giphy (5)](https://github.com/user-attachments/assets/4c4d6f57-a25c-4e28-8b78-bbeee67d58fa)
+
 
 ### 🧰 Languages
 
