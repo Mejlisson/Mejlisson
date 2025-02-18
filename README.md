@@ -1,6 +1,11 @@
 ## ✨Mejlisson✨Мелхи
 
-Frontend Developer Student<br>
+👋 Hi there! I’m a **frontend development student** with a burning passion for coding and the endless possibilities it unlocks. <br>
+I thrive at the intersection of **creativity and technology**, where I can bring ideas to life through visuals and intuitive interfaces.  <br>
+
+ **Currently**: Sharpening my skills in modern frameworks, and building projects that challenge me to think outside the box.  
+
+*“Code is art, and the browser is my canvas.”*  <br>
 
 ### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://se.linkedin.com/in/mejlisson)
 
