@@ -7,7 +7,6 @@ I thrive at the intersection of **creativity and technology**, where I can bring
 
 *“Code is art, and the browser is my canvas.”*  <br>
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://se.linkedin.com/in/mejlisson)
 
 
 ### 🧰 Languages
