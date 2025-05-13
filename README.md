@@ -1,15 +1,29 @@
-## ✨Mejlisson✨Мелхи
+### Hi there! I'm a passionate front-end developer student
 
-👋 Hi there! I’m a **frontend development student** with a burning passion for coding and the endless possibilities it unlocks. <br>
-I thrive at the intersection of **creativity and technology**, where I can bring ideas to life through visuals and intuitive interfaces.  <br>
+I'm currently studying to become a front-end developer, with a strong interest in creative design, user experience, and building exciting web solutions. My projects reflect my love for colorful interfaces, and engaging interactions.
 
- **Currently**: Sharpening my skills in modern frameworks, and building projects that challenge me to think outside the box.  
+I have mainly worked with:
+- **React**, **TypeScript**, and **JavaScript**
+- **HTML/CSS** **Tailwind**and modern UI libraries
+- API integrations and dynamic content
+- LocalStorage-based features like favorites and ratings
 
-*“Code is art, and the browser is my canvas.”*  <br>
+I'm passionate about
+- Clean UI/UX design with comic-style elements and animations
+- Clear code structure with reusable components and DRY principles
+- Making web apps that are both fun and functional
+
+Currently exploring:
+- Advanced component structure
+- State management strategies
+- Animation and accessibility in React
+
+Feel free to check out my projects
 
 
 
-### 🧰 Languages
+
+### Languages
 
 <p><a target="_blank" ![Uploading giphy (5).gif…]()
 href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -18,8 +32,11 @@ href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+
 
 ---
 <picture>
