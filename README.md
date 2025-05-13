@@ -1,6 +1,6 @@
 ### Hi there! I'm a passionate front-end developer student
 
-I'm currently studying to become a front-end developer, with a strong interest in creative design, user experience, and building exciting web solutions. My projects reflect my love for colorful interfaces, and engaging interactions.
+Currently studying to become a front-end developer, with a strong interest in creative design, user experience, and building exciting web solutions. My projects reflect my love for colorful interfaces, and engaging interactions.
 
 I have mainly worked with:
 - **React**, **TypeScript**, and **JavaScript**
